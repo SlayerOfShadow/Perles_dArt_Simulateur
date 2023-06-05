@@ -5,36 +5,41 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {
     [SerializeField]
-    private Transform[] cameraPositions;
+    List<Transform> camera_positions;
 
     [SerializeField]
     private float duration;
 
-    private Coroutine cameraMoveCoroutine;
+    Coroutine camera_move_coroutine;
 
-    public void MoveCamera(int position)
+    public void move_camera(int position)
     {
-        if (cameraMoveCoroutine != null)
+        if (camera_move_coroutine != null)
         {
-            StopCoroutine(cameraMoveCoroutine);
+            StopCoroutine(camera_move_coroutine);
         }
 
-        cameraMoveCoroutine = StartCoroutine(MoveCameraCoroutine(position));
+        camera_move_coroutine = StartCoroutine(move_camera_coroutine(position));
     }
 
-    private IEnumerator MoveCameraCoroutine(int position)
+    private IEnumerator move_camera_coroutine(int position)
     {
-        Transform targetPosition = cameraPositions[position];
-        Vector3 startPosition = transform.position;
-        float elapsedTime = 0f;
+        Transform target_position = camera_positions[position];
+        Quaternion target_rotation = target_position.rotation;
+        Vector3 start_position = transform.position;
+        Quaternion start_rotation = transform.rotation;
+        float elapsed_time = 0f;
 
-        while (elapsedTime < duration)
+        while (elapsed_time < duration)
         {
-            transform.position = Vector3.Lerp(startPosition, targetPosition.position, elapsedTime / duration);
-            elapsedTime += Time.deltaTime;
+            float t = elapsed_time / duration;
+            transform.position = Vector3.Lerp(start_position, target_position.position, t);
+            transform.rotation = Quaternion.Slerp(start_rotation, target_rotation, t);
+            elapsed_time += Time.deltaTime;
             yield return null;
         }
 
-        transform.position = targetPosition.position;
+        transform.position = target_position.position;
+        transform.rotation = target_rotation;
     }
 }
