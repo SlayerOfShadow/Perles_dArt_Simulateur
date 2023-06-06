@@ -22,9 +22,14 @@ public class UI : MonoBehaviour
         model_renderer.material = material;
     }
 
-    public void set_active_panel(GameObject panel)
+    public void toggle_panel(GameObject panel)
     {
         panel.SetActive(!panel.activeSelf);
+    }
+
+    public void set_active_panel(GameObject panel)
+    {
+        toggle_panel(panel);
         foreach (GameObject p in panels)
         {
             if (p != panel) p.SetActive(false);
@@ -37,7 +42,7 @@ public class UI : MonoBehaviour
 
     public void set_active_sub_panel(GameObject sub_panel)
     {
-        sub_panel.SetActive(!sub_panel.activeSelf);
+        toggle_panel(sub_panel);
         foreach (GameObject p in sub_panels)
         {
             if (p != sub_panel) p.SetActive(false);
