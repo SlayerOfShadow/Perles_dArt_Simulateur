@@ -5,7 +5,7 @@ using UnityEngine;
 public class ButtonPose : MonoBehaviour
 {
     [SerializeField]
-    GameObject model;
+    GameObject model, stool;
     Animator model_animator;
 
     void Start()
@@ -20,5 +20,12 @@ public class ButtonPose : MonoBehaviour
             model_animator.SetBool(p.name, false);
         }
         model_animator.SetBool(name, true);
+        if (name == "Sitting")
+        {
+            stool.SetActive(true);
+        } else
+        {
+            stool.SetActive(false);
+        }
     }
 }
