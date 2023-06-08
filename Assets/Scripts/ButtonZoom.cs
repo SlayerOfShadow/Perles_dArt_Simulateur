@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using TMPro;
 
 public class ButtonZoom : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
@@ -18,6 +19,14 @@ public class ButtonZoom : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     [SerializeField]
     int min_zoom, max_zoom;
 
+    [SerializeField]
+    TMP_Text zoom_text;
+
+    void Start()
+    {
+        zoom_text.text = 175 - (int)(cam.fieldOfView * 2.5f) + "%";
+    }
+
     void FixedUpdate()
     {
         if (zoom == false)
@@ -33,6 +42,8 @@ public class ButtonZoom : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         {
             cam.fieldOfView = min_zoom;
         }
+
+        zoom_text.text = 175 - (int)(cam.fieldOfView * 2.5f) + "%";
     }
 
     public void OnPointerDown(PointerEventData pointerEventData)

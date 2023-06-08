@@ -17,7 +17,7 @@ public class UI : MonoBehaviour
     List<Outline> color_buttons_outline;
 
     [SerializeField]
-    GameObject panel_arrow1, panel_arrow2;
+    List<GameObject> panel_arrows;
 
     void Start()
     {
@@ -45,14 +45,21 @@ public class UI : MonoBehaviour
     public void set_active_panel(GameObject panel)
     {
         toggle_panel(panel);
-        if (panel.name == "Panel couleurs")
+        foreach (GameObject p in panel_arrows)
         {
-            panel_arrow1.SetActive(panel.activeSelf);
-            panel_arrow2.SetActive(false);
-        } else
+            p.SetActive(false);
+        }
+        switch(panel.name)
         {
-            panel_arrow2.SetActive(panel.activeSelf);
-            panel_arrow1.SetActive(false);
+            case "Panel couleurs":
+                panel_arrows[0].SetActive(panel.activeSelf);
+                break;
+            case "Panel bijoux":
+                panel_arrows[1].SetActive(panel.activeSelf);
+                break;
+            case "Panel poses":
+                panel_arrows[2].SetActive(panel.activeSelf);
+                break;
         }
         foreach (GameObject p in panels)
         {
