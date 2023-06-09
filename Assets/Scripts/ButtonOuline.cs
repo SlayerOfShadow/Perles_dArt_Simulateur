@@ -11,7 +11,10 @@ public class ButtonOuline : MonoBehaviour
 
     void Start()
     {
-        outline = GetComponent<Outline>();
+        if (GetComponent<Outline>())
+        {
+            outline = GetComponent<Outline>();
+        }
     }
 
     public void set_poses_outlines()
@@ -20,7 +23,7 @@ public class ButtonOuline : MonoBehaviour
         {
             o.enabled = false;
         }
-        outline.enabled = true;
+        if (outline) outline.enabled = true;
     }
 
     public void set_jewels_outlines()
