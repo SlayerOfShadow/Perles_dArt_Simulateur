@@ -5,7 +5,10 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {
     [SerializeField]
-    List<Transform> camera_positions;
+    Animator model_animator;
+
+    [SerializeField]
+    List<Transform> camera_positions, camera_sitting_positions;
 
     [SerializeField]
     private float duration;
@@ -24,7 +27,14 @@ public class CameraController : MonoBehaviour
 
     private IEnumerator move_camera_coroutine(int position)
     {
-        Transform target_position = camera_positions[position];
+        Transform target_position;
+        if (model_animator.GetBool("Sitting"))
+        {
+            target_position = camera_sitting_positions[position];
+        } else
+        {
+            target_position = camera_positions[position];
+        }
         Quaternion target_rotation = target_position.rotation;
         Vector3 start_position = transform.position;
         Quaternion start_rotation = transform.rotation;

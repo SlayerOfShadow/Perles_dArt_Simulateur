@@ -8,6 +8,9 @@ public class ButtonPose : MonoBehaviour
     GameObject model, stool;
     Animator model_animator;
 
+    [SerializeField]
+    CameraController cam;
+
     void Start()
     {
         model_animator = model.GetComponent<Animator>();
@@ -28,5 +31,6 @@ public class ButtonPose : MonoBehaviour
         {
             stool.SetActive(false);
         }
+        cam.move_camera(0);
     }
 }
