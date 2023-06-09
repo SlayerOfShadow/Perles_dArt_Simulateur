@@ -1389,6 +1389,7 @@ GameObject:
   - component: {fileID: 229046439}
   - component: {fileID: 229046443}
   - component: {fileID: 229046442}
+  - component: {fileID: 229046444}
   m_Layer: 5
   m_Name: Bouton colliers
   m_TagString: Untagged
@@ -1485,6 +1486,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 229046444}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_jewels_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &229046440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1553,6 +1566,23 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
   m_EffectDistance: {x: 5, y: 5}
   m_UseGraphicAlpha: 1
+--- !u!114 &229046444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 229046437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 1102232360}
+  - {fileID: 229046443}
+  - {fileID: 457299447}
+  - {fileID: 1539704492}
 --- !u!1 &235217564
 GameObject:
   m_ObjectHideFlags: 0
@@ -2602,7 +2632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &308443609
 GameObject:
@@ -2964,8 +2994,10 @@ GameObject:
   - component: {fileID: 433478959}
   - component: {fileID: 433478958}
   - component: {fileID: 433478957}
+  - component: {fileID: 433478961}
   - component: {fileID: 433478956}
   - component: {fileID: 433478960}
+  - component: {fileID: 433478962}
   m_Layer: 5
   m_Name: Bouton debout
   m_TagString: Untagged
@@ -3065,6 +3097,18 @@ MonoBehaviour:
           m_StringArgument: Idle
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 433478962}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_poses_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &433478958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3117,6 +3161,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   model: {fileID: 676519864}
   stool: {fileID: 919132147680629077}
+--- !u!114 &433478961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433478954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
+  m_EffectDistance: {x: 5, y: 5}
+  m_UseGraphicAlpha: 1
+--- !u!114 &433478962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433478954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 433478961}
+  - {fileID: 1647584105}
+  - {fileID: 1775695256}
 --- !u!1 &437997998
 GameObject:
   m_ObjectHideFlags: 0
@@ -3421,6 +3496,7 @@ GameObject:
   - component: {fileID: 457299443}
   - component: {fileID: 457299447}
   - component: {fileID: 457299446}
+  - component: {fileID: 457299448}
   m_Layer: 5
   m_Name: Bouton bracelets
   m_TagString: Untagged
@@ -3517,6 +3593,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 457299448}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_jewels_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &457299444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3585,6 +3673,23 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
   m_EffectDistance: {x: 5, y: 5}
   m_UseGraphicAlpha: 1
+--- !u!114 &457299448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457299441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 1102232360}
+  - {fileID: 229046443}
+  - {fileID: 457299447}
+  - {fileID: 1539704492}
 --- !u!1 &457444045
 GameObject:
   m_ObjectHideFlags: 0
@@ -3732,7 +3837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &457982562
 GameObject:
@@ -4608,7 +4713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &553746245
 GameObject:
@@ -5556,7 +5661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &620357240
 GameObject:
@@ -6639,7 +6744,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &676519864 stripped
 GameObject:
@@ -7327,7 +7432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &705507993
 GameObject:
@@ -8810,7 +8915,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1001 &878148395
 PrefabInstance:
@@ -9634,14 +9739,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927450326}
-  m_LocalRotation: {x: 0.17364816, y: 0, z: 0, w: 0.9848078}
+  m_LocalRotation: {x: 0.1564345, y: 0, z: 0, w: 0.98768836}
   m_LocalPosition: {x: 0, y: 3.15, z: -3.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554584562}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 20, y: 0, z: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 18, y: 0, z: 0}
 --- !u!1 &930934378
 GameObject:
   m_ObjectHideFlags: 0
@@ -10058,14 +10163,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.17364816, y: 0, z: 0, w: 0.9848078}
+  m_LocalRotation: {x: 0.1564345, y: 0, z: 0, w: 0.98768836}
   m_LocalPosition: {x: 0, y: 3.15, z: -3.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 20, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 18, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10961,7 +11066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &1014934434
 GameObject:
@@ -11138,7 +11243,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4803094529756700936, guid: 22afbd26acd444440b815b9da6e19b87, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1575235221}
-    - targetCorrespondingSourceObject: {fileID: 1033457975694571078, guid: 22afbd26acd444440b815b9da6e19b87, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 2930582724699548376, guid: 22afbd26acd444440b815b9da6e19b87, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1298827340}
     m_AddedComponents:
@@ -11349,6 +11454,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1060636137}
   m_CullTransparentMesh: 1
+--- !u!4 &1074502098 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2930582724699548376, guid: 22afbd26acd444440b815b9da6e19b87, type: 3}
+  m_PrefabInstance: {fileID: 1034529053}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1084886707
 GameObject:
   m_ObjectHideFlags: 0
@@ -11673,6 +11783,7 @@ GameObject:
   - component: {fileID: 1102232356}
   - component: {fileID: 1102232360}
   - component: {fileID: 1102232359}
+  - component: {fileID: 1102232361}
   m_Layer: 5
   m_Name: Bouton boucles d'oreilles
   m_TagString: Untagged
@@ -11769,6 +11880,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1102232361}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_jewels_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1102232357
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11837,6 +11960,23 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
   m_EffectDistance: {x: 5, y: 5}
   m_UseGraphicAlpha: 1
+--- !u!114 &1102232361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102232354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 1102232360}
+  - {fileID: 229046443}
+  - {fileID: 457299447}
+  - {fileID: 1539704492}
 --- !u!1 &1115363821
 GameObject:
   m_ObjectHideFlags: 0
@@ -14195,12 +14335,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1298827339}
-  m_LocalRotation: {x: 0.022028528, y: 0.96680605, z: -0.041620366, w: -0.25113475}
-  m_LocalPosition: {x: -0.016309999, y: 0.05623201, z: -0.006460928}
+  m_LocalRotation: {x: -0.0007679757, y: 0.96217084, z: -0.11587773, w: -0.24657452}
+  m_LocalPosition: {x: -0.004, y: 0.058, z: -0.021}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1518575103}
+  m_Father: {fileID: 1074502098}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1308123404
@@ -14515,7 +14655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &1315642955
 GameObject:
@@ -15244,7 +15384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &1410740570
 GameObject:
@@ -16125,7 +16265,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &1467875387
 GameObject:
@@ -16702,11 +16842,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513962600}
   m_CullTransparentMesh: 1
---- !u!4 &1518575103 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1033457975694571078, guid: 22afbd26acd444440b815b9da6e19b87, type: 3}
-  m_PrefabInstance: {fileID: 1034529053}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1526900021
 GameObject:
   m_ObjectHideFlags: 0
@@ -16888,7 +17023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
+  m_EffectDistance: {x: 5, y: -5}
   m_UseGraphicAlpha: 1
 --- !u!1 &1534829717
 GameObject:
@@ -17049,6 +17184,7 @@ GameObject:
   - component: {fileID: 1539704488}
   - component: {fileID: 1539704492}
   - component: {fileID: 1539704491}
+  - component: {fileID: 1539704493}
   m_Layer: 5
   m_Name: Bouton bagues
   m_TagString: Untagged
@@ -17145,6 +17281,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1539704493}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_jewels_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1539704489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17213,6 +17361,23 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
   m_EffectDistance: {x: 5, y: 5}
   m_UseGraphicAlpha: 1
+--- !u!114 &1539704493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539704486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 1102232360}
+  - {fileID: 229046443}
+  - {fileID: 457299447}
+  - {fileID: 1539704492}
 --- !u!1 &1547388354
 GameObject:
   m_ObjectHideFlags: 0
@@ -19301,8 +19466,10 @@ GameObject:
   - component: {fileID: 1647584103}
   - component: {fileID: 1647584102}
   - component: {fileID: 1647584101}
+  - component: {fileID: 1647584105}
   - component: {fileID: 1647584100}
   - component: {fileID: 1647584104}
+  - component: {fileID: 1647584106}
   m_Layer: 5
   m_Name: Bouton assis
   m_TagString: Untagged
@@ -19402,6 +19569,18 @@ MonoBehaviour:
           m_StringArgument: Sitting
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1647584106}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_poses_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1647584102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19454,6 +19633,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   model: {fileID: 676519864}
   stool: {fileID: 919132147680629077}
+--- !u!114 &1647584105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1647584098}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
+  m_EffectDistance: {x: 5, y: 5}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1647584106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1647584098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 433478961}
+  - {fileID: 1647584105}
+  - {fileID: 1775695256}
 --- !u!1 &1660671889
 GameObject:
   m_ObjectHideFlags: 0
@@ -20965,8 +21175,10 @@ GameObject:
   - component: {fileID: 1775695254}
   - component: {fileID: 1775695253}
   - component: {fileID: 1775695252}
+  - component: {fileID: 1775695256}
   - component: {fileID: 1775695251}
   - component: {fileID: 1775695255}
+  - component: {fileID: 1775695257}
   m_Layer: 5
   m_Name: Bouton marche
   m_TagString: Untagged
@@ -21066,6 +21278,18 @@ MonoBehaviour:
           m_StringArgument: Walking
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1775695257}
+        m_TargetAssemblyTypeName: ButtonOuline, Assembly-CSharp
+        m_MethodName: set_poses_outlines
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1775695253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21118,6 +21342,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   model: {fileID: 676519864}
   stool: {fileID: 919132147680629077}
+--- !u!114 &1775695256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775695249}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
+  m_EffectDistance: {x: 5, y: 5}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1775695257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775695249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62f3ad9503a31f4e9a94fa7de584182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_outlines:
+  - {fileID: 433478961}
+  - {fileID: 1647584105}
+  - {fileID: 1775695256}
 --- !u!1 &1779566827
 GameObject:
   m_ObjectHideFlags: 0
@@ -22146,7 +22401,7 @@ MonoBehaviour:
   - {fileID: 681792172}
   - {fileID: 748878646}
   - {fileID: 1084886707}
-  color_buttons_outline:
+  color_buttons_outlines:
   - {fileID: 607627873}
   - {fileID: 1309982681}
   - {fileID: 457444050}
@@ -22159,6 +22414,11 @@ MonoBehaviour:
   - {fileID: 1012975664}
   - {fileID: 546059788}
   - {fileID: 1528558079}
+  jewels_buttons_outlines:
+  - {fileID: 1102232360}
+  - {fileID: 229046443}
+  - {fileID: 457299447}
+  - {fileID: 1539704492}
   panel_arrows:
   - {fileID: 1157396951}
   - {fileID: 655607541}

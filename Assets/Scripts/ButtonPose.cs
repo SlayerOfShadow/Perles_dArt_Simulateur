@@ -19,6 +19,7 @@ public class ButtonPose : MonoBehaviour
         {
             model_animator.SetBool(p.name, false);
         }
+
         model_animator.SetBool(name, true);
         if (name == "Sitting")
         {

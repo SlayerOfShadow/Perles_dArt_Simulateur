@@ -14,7 +14,7 @@ public class UI : MonoBehaviour
     List<GameObject> panels, sub_panels;
 
     [SerializeField]
-    List<Outline> color_buttons_outline;
+    List<Outline> color_buttons_outlines, jewels_buttons_outlines;
 
     [SerializeField]
     List<GameObject> panel_arrows;
@@ -29,7 +29,7 @@ public class UI : MonoBehaviour
         if (model_renderer.material.color != material.color)
         {
             model_renderer.material = material;
-            foreach (Outline outline in color_buttons_outline)
+            foreach (Outline outline in color_buttons_outlines)
             {
                 outline.enabled = false;
             }
@@ -68,6 +68,10 @@ public class UI : MonoBehaviour
         foreach (GameObject p in sub_panels)
         {
             p.SetActive(false);
+        }
+        foreach (Outline o in jewels_buttons_outlines)
+        {
+            o.enabled = false;
         }
     }
 
