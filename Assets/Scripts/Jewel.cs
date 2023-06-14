@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Jewel : MonoBehaviour
 {
-    [SerializeField]
-    GameObject jewel_position, jewel_model;
+    public GameObject jewel_position, jewel_model;
 
     public void remove_jewel()
     {
