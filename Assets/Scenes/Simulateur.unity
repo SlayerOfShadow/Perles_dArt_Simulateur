@@ -16646,7 +16646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: ad2e613ac4914a546bded7f38006b712, type: 3}
 --- !u!114 &725649675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23828,7 +23828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: fd5d0cb195b4bc54c88752db845d474e, type: 3}
 --- !u!114 &929532168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31377,14 +31377,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1298827339}
-  m_LocalRotation: {x: -0.0007679757, y: 0.96217084, z: -0.11587773, w: -0.24657452}
-  m_LocalPosition: {x: -0.004, y: 0.058, z: -0.021}
+  m_LocalRotation: {x: 0.034606937, y: 0.98489106, z: 0.10514197, w: -0.13318057}
+  m_LocalPosition: {x: -0.0068693496, y: 0.0650554, z: -0.026478862}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1074502098}
   m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -12.493, y: -164.856, z: 2.358}
 --- !u!1 &1298838654
 GameObject:
   m_ObjectHideFlags: 0
@@ -39647,7 +39647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: 53789c244f399594f8b50607806f9c8d, type: 3}
 --- !u!114 &1621951583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41387,7 +41387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: 98a259a4091b4f244a04bfcfd2e0a3ca, type: 3}
 --- !u!114 &1680810118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47189,7 +47189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: e1acf8f23a436a548b9ec2a8839533eb, type: 3}
 --- !u!114 &1940143817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48596,7 +48596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: f682ae7def4911140bc14dcdb53612b7, type: 3}
 --- !u!114 &2036673974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48979,7 +48979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: 33ad63e8ab96c774cbd7a89514aa207c, type: 3}
 --- !u!114 &2049163802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50733,7 +50733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 1176885907873638609, guid: 1ffdc42edaad33c498835a2865d0dd9a, type: 3}
+  jewel_model: {fileID: 919132149155446097, guid: ac33e999b95f83e44bce996011bc9a87, type: 3}
 --- !u!114 &2128703196
 MonoBehaviour:
   m_ObjectHideFlags: 0
