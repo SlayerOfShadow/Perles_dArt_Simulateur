@@ -83,4 +83,9 @@ public class UI : MonoBehaviour
             if (p != sub_panel) p.SetActive(false);
         }
     }
+
+    public void quit_application()
+    {
+        Application.Quit();
+    }
 }

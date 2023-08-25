@@ -423,7 +423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 017c30c292f4a6a4d8ec471e5eee5655, type: 3}
+  jewel_model: {fileID: 1176860219265238338, guid: caa5fab78893fdf499e56e1981745256, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &36354716
 MonoBehaviour:
@@ -803,7 +803,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 24a4fb4dacc2b9847a5d6380ed6a656c, type: 3}
+  jewel_model: {fileID: 8829456448059972462, guid: 3580a1de9e0b3294aa9f775a402675b8, type: 3}
 --- !u!114 &51518140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 84bc1d2ad8e68864cb0bf0661773f1dc, type: 3}
+  jewel_model: {fileID: 3136484599190614089, guid: 3e6293e138ba0054895b91fe924523c2, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &72508669
 MonoBehaviour:
@@ -1520,7 +1520,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 008c03db7c5afa2459de6e4d0d06dddb, type: 3}
+  jewel_model: {fileID: 9113259206902463066, guid: 37e87078338581e479002e1f8f4f9ee9, type: 3}
 --- !u!114 &89393873
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1781,7 +1781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 746a9c2e846229d4aacd269001d841a8, type: 3}
+  jewel_model: {fileID: 2227367581315751768, guid: ae96bde120c29e649b23d33a0e1164d1, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &114654419
 MonoBehaviour:
@@ -2358,7 +2358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 83a9722d3dc7d974ba726a31a30d56c9, type: 3}
+  jewel_model: {fileID: 2467895186128190224, guid: ca9d0840db7253443b0e559f4dc86755, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &119954594
 MonoBehaviour:
@@ -2692,7 +2692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 389a4fca3d724994587d2ffe3881cd33, type: 3}
+  jewel_model: {fileID: 7399687768613289371, guid: beb163bd94a3bb74b85f5c7590126699, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &136630160
 MonoBehaviour:
@@ -3384,7 +3384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: f44ec872dd30c534d93255567eaec4ef, type: 3}
+  jewel_model: {fileID: 2162930710312096596, guid: bd39cf8b748950a48ad7e247d0201462, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &191077861
 MonoBehaviour:
@@ -4168,7 +4168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 1e88624073965eb4dacc59e89d798dcd, type: 3}
+  jewel_model: {fileID: 670951232823211610, guid: b7729b5c198452741b0f3babeb2226f7, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &247903142
 MonoBehaviour:
@@ -4461,7 +4461,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 92a2446d3e0f7454cba6ca0fef2800ca, type: 3}
+  jewel_model: {fileID: 2228059477615123491, guid: 0627bc0cdeaecff4390590c012f2e92c, type: 3}
 --- !u!114 &258412787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5650,7 +5650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 0e19036b12ef4dc4ca1398e3e7d0558e, type: 3}
+  jewel_model: {fileID: 5954726919746540301, guid: f46370f1a2c77684d9d22063cb0ad3d3, type: 3}
 --- !u!114 &297452803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6431,7 +6431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 4f0e0d8e8c8ca524baac0c9cf1a21ab5, type: 3}
+  jewel_model: {fileID: 1594969277694401316, guid: 95603ba490ffe5c499be3100feabaf27, type: 3}
 --- !u!114 &319174944
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6799,7 +6799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 3f9e8d63498f1954bad93870709e5762, type: 3}
+  jewel_model: {fileID: 6573304079651241458, guid: 04ef5ef8a2dccc044910b73b5a091b9f, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &324215803
 MonoBehaviour:
@@ -7862,7 +7862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 5798a69c36c1d404cb7aded88d27cb98, type: 3}
+  jewel_model: {fileID: 7689064616132569378, guid: 5dc985ed67101b54fa57982f63e5430d, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &391365044
 MonoBehaviour:
@@ -9110,7 +9110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 3f6c7170823f41247a3cfa021a222414, type: 3}
+  jewel_model: {fileID: 7080878152542011526, guid: e01b84536931b7846a620e4c8cf27ec6, type: 3}
 --- !u!114 &455193846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9805,7 +9805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 2f81df525a380a74ea09b75e39e75f0b, type: 3}
+  jewel_model: {fileID: 1014303465760195481, guid: 615190cc062239047a4c1037245bb7d7, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &477036593
 MonoBehaviour:
@@ -10488,7 +10488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 4db40c951e5b09c4eb28a3e3aff696e5, type: 3}
+  jewel_model: {fileID: 2762890432305929288, guid: edc3f23a8269e46499675ecee2d5a6d3, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &501458116
 MonoBehaviour:
@@ -10731,7 +10731,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 03f94d2e1bd295c4a9b1b3f82f3c6012, type: 3}
+  jewel_model: {fileID: 1244942486438991636, guid: 5c5873082cbfd344eb78fe52a06b0a6d, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &507217928
 MonoBehaviour:
@@ -11235,7 +11235,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: e4f43a16910b81a40b3fdc4e96223b77, type: 3}
+  jewel_model: {fileID: 1780811991367764231, guid: c36792af535f6cf40ae2a28706e53d03, type: 3}
 --- !u!114 &542003600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12048,7 +12048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 239a8ba6ff70e8b4b9f6a9e1fdeef597, type: 3}
+  jewel_model: {fileID: 5536645380668315659, guid: 2111a3bcba0817040a283b4f2d668d0c, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &577983175
 MonoBehaviour:
@@ -12576,7 +12576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 318cdb1faf85b2a47be58e41e0d5a387, type: 3}
+  jewel_model: {fileID: 5665971013797705884, guid: 1733ef33dc7e8ca45bd029dbe11fb1b3, type: 3}
 --- !u!114 &605024267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12980,7 +12980,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: c5b508f8c086e8742bc19e7293ef9a47, type: 3}
+  jewel_model: {fileID: 8398625880462341302, guid: a6e17e569537b5d4db866c842d9d2ea5, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &611079092
 MonoBehaviour:
@@ -14077,7 +14077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: cec9a91ded7e5d7428b59e9c56ad837a, type: 3}
+  jewel_model: {fileID: 4734242089741493676, guid: 67ac791137418464ab1ac9830c7c12b7, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &656245723
 MonoBehaviour:
@@ -15154,7 +15154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 8b1b3e939cde5a041bdcf8df3663ac14, type: 3}
+  jewel_model: {fileID: 5742545146440201000, guid: 7e45097582b091b48bd1e54eb6b7c703, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &670697522
 MonoBehaviour:
@@ -15709,7 +15709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: fe5c9091ca1ed964580fa7196921e84c, type: 3}
+  jewel_model: {fileID: 8676715186799916363, guid: d27ca24d56a59244195a812f2d4c87e0, type: 3}
 --- !u!114 &678562342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16633,7 +16633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 27d456d2f272b2c4cbdb6b25525db7e7, type: 3}
+  jewel_model: {fileID: 1351106776556411899, guid: 93a6da5ff61178941ad842267d6df1a3, type: 3}
 --- !u!114 &718927451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16924,7 +16924,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: ad2e613ac4914a546bded7f38006b712, type: 3}
+  jewel_model: {fileID: 8135079754363269691, guid: 62eede9416fbbdc4a8ae0849a55f3268, type: 3}
 --- !u!114 &725649675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17322,7 +17322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 3f76add389abbab4da33cb6847755669, type: 3}
+  jewel_model: {fileID: 2849239535033861266, guid: 00583dd5be8866943945fa9e8b24ff5e, type: 3}
 --- !u!114 &737763018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17644,7 +17644,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 3669c11feeb41f242b8221aaa9a0da0b, type: 3}
+  jewel_model: {fileID: 1703451668938334622, guid: e1fbd0eaa72f6394587d8881a7a5a4c6, type: 3}
 --- !u!114 &762200455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18294,7 +18294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 7e77d72fc1b9a024388e42d07125c65f, type: 3}
+  jewel_model: {fileID: 7342590141297650833, guid: e5345581d73a477439cd2f4f134755ee, type: 3}
 --- !u!114 &781077244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18856,7 +18856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: d0209cd257d863745a309219c1b81325, type: 3}
+  jewel_model: {fileID: 151396206364802248, guid: 8bf1eec9a5b963547b1b62abe3d55fd1, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &794277609
 MonoBehaviour:
@@ -19190,7 +19190,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 06e7b2ca4f7b2074b91bac6ba7154818, type: 3}
+  jewel_model: {fileID: 3008711252763732833, guid: 87d4b8b08ab36a049b468b08fa4c315d, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &796166359
 MonoBehaviour:
@@ -19800,7 +19800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 1d3228edd049cfd47ac1dcfa34a4fa3d, type: 3}
+  jewel_model: {fileID: 8294396465228662355, guid: c9dcdfb96fb9e1c499db844f1de04995, type: 3}
 --- !u!114 &811728381
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20031,7 +20031,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 41e46d512b99f6e4e8bf1073dccb4f55, type: 3}
+  jewel_model: {fileID: 5313301083807357779, guid: 7359b14bff8b0e447a0f84e74e3c1288, type: 3}
 --- !u!114 &815409159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20448,7 +20448,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 85fb81aecb1e4024b92cd864825aeae2, type: 3}
+  jewel_model: {fileID: 2293528596763452953, guid: 8b595eb68e58bc841a42336d433fdb0e, type: 3}
 --- !u!114 &829556960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20844,7 +20844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 8450cf75ab1a83c428deeb475ecca770, type: 3}
+  jewel_model: {fileID: 5894685456991442293, guid: 4e82b7044e5c6864e8277933ec0c9452, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &838045439
 MonoBehaviour:
@@ -21473,7 +21473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 40685b503bcdb6c46a409af31c86092e, type: 3}
+  jewel_model: {fileID: 817788320537370824, guid: 97f3aaf7b215a9f408d71936ec6c605c, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &864382892
 MonoBehaviour:
@@ -22436,7 +22436,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 49dc6f9f1050f3045ac4ee8988c6d17d, type: 3}
+  jewel_model: {fileID: 5298472358142011194, guid: 18584213694ea664daef9cd192a8dbc5, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &889496628
 MonoBehaviour:
@@ -22653,6 +22653,156 @@ Transform:
   m_Father: {fileID: 1554584562}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 17.5, y: 0, z: 0}
+--- !u!1 &891148192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 891148193}
+  - component: {fileID: 891148197}
+  - component: {fileID: 891148196}
+  - component: {fileID: 891148195}
+  - component: {fileID: 891148194}
+  m_Layer: 5
+  m_Name: Bouton quitter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &891148193
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891148192}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1986209667}
+  m_Father: {fileID: 1122457078}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -837.49976, y: -520.06616}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &891148194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891148192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.3137255}
+  m_EffectDistance: {x: 0, y: -3}
+  m_UseGraphicAlpha: 1
+--- !u!114 &891148195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891148192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 0
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_PressedColor: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 891148196}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1913742569}
+        m_TargetAssemblyTypeName: UI, Assembly-CSharp
+        m_MethodName: quit_application
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &891148196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891148192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.7137255, g: 0.37647063, b: 0.5176471, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 3152f537550bffd449f52af355b62ed8, type: 3}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &891148197
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891148192}
+  m_CullTransparentMesh: 1
 --- !u!1 &895213763
 GameObject:
   m_ObjectHideFlags: 0
@@ -22936,7 +23086,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 193b43fdcbc510946b11c3327cad88a2, type: 3}
+  jewel_model: {fileID: 8519708692096801419, guid: 7e66fa48d71ef9345873e4274fc3c27f, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &898718009
 MonoBehaviour:
@@ -23701,7 +23851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: e7af251db9eb6b7468270811553fe296, type: 3}
+  jewel_model: {fileID: 6985738702881724894, guid: d692938a6e797ca4988fb4833bdb77c7, type: 3}
 --- !u!114 &923165374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24106,7 +24256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: fd5d0cb195b4bc54c88752db845d474e, type: 3}
+  jewel_model: {fileID: 5794047892085698823, guid: eb7f45c5d2354c142af8f034f35e3c26, type: 3}
 --- !u!114 &929532168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24493,7 +24643,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 92e8ebeed0676e34484c64e374ded0b7, type: 3}
+  jewel_model: {fileID: 1010534520228151972, guid: ddde9b6c99382be4eae70945e9a2a9e5, type: 3}
 --- !u!114 &939113485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26206,7 +26356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 27b6340d124f69b4891d3bab4116b8b7, type: 3}
+  jewel_model: {fileID: 7869442333368110120, guid: b648b822bccf8a94c912eb6a6f5c3fe8, type: 3}
 --- !u!114 &1035967142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26731,7 +26881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 1e946273f9ca48245902ca58db2061ac, type: 3}
+  jewel_model: {fileID: 8652004115468283086, guid: 8cc3f9aa038dbc34dad99cac5d9a694c, type: 3}
 --- !u!114 &1086967980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27434,6 +27584,7 @@ RectTransform:
   - {fileID: 655607542}
   - {fileID: 1011478890}
   - {fileID: 1623806336}
+  - {fileID: 891148193}
   - {fileID: 143568305}
   - {fileID: 1397407495}
   - {fileID: 1444160456}
@@ -27644,7 +27795,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 0f95522573554484c9f661320616cfe1, type: 3}
+  jewel_model: {fileID: 3387529489301502476, guid: f9ddbe95defc6264a9923b0ec5f85880, type: 3}
 --- !u!114 &1135805709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27829,7 +27980,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: a15e891a5093c35428c5b771b3b76265, type: 3}
+  jewel_model: {fileID: 1276931270550609336, guid: ef91453d29a605f4cab862986b2c7c04, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1140479173
 MonoBehaviour:
@@ -28118,7 +28269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 610689f846e0c574b8926493fafec59b, type: 3}
+  jewel_model: {fileID: 6460123371729549871, guid: d9209bdcfbcd3b64989751049581d373, type: 3}
 --- !u!114 &1141075449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28487,7 +28638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: df8ca025c17ca15439323563217401b9, type: 3}
+  jewel_model: {fileID: 8851337945033691671, guid: 556d62f1c48deae43b2d9f2471ac3aff, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!1 &1147975599
 GameObject:
@@ -28976,7 +29127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: e92e946fd56f0004ba18013e9c2a8f40, type: 3}
+  jewel_model: {fileID: 8664690116885182832, guid: cebe14e18f1a847449c5f47e9f8b953a, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1184163938
 MonoBehaviour:
@@ -29219,7 +29370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 04db0cf7c64f42441bdaba7887172f2a, type: 3}
+  jewel_model: {fileID: 8297220356567287633, guid: 8cc068338913af7418b1482ad006020b, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1185531374
 MonoBehaviour:
@@ -30205,7 +30356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 609bab4d7ebcb904baec844d670bf022, type: 3}
+  jewel_model: {fileID: 3342286787793064220, guid: 827fcfd8f6d3f0c4b8f9871bdfa11d36, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1249838946
 MonoBehaviour:
@@ -31134,7 +31285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: a13a7d5183ddc5440b31387317398fb3, type: 3}
+  jewel_model: {fileID: 204515821261662396, guid: 349d5503e05a5064bbf7eedaf8c0eeea, type: 3}
 --- !u!114 &1295730453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31319,7 +31470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 822e3e7a1340141489935c2f3d8fe793, type: 3}
+  jewel_model: {fileID: 280436128236591927, guid: 30be5ffe039668f419124b212801deb3, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1296024007
 MonoBehaviour:
@@ -32482,7 +32633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: f24da60c5a1b99340aed02479825629d, type: 3}
+  jewel_model: {fileID: 6650252545614856670, guid: 11555c10d310aa2459901aae688a3ec5, type: 3}
 --- !u!114 &1366120139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32901,7 +33052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 8a04feb9fb6cdc04ba12554ff490017f, type: 3}
+  jewel_model: {fileID: 8281517198710189598, guid: 9a53d74ce2cec484bb1f2723866e82f0, type: 3}
 --- !u!114 &1378402598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33115,7 +33266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 9a2e73285b150e44d9ed1d24a7e76c52, type: 3}
+  jewel_model: {fileID: 4661442712134336201, guid: 6a9a1bdaece2b9a41b827900f535fb37, type: 3}
 --- !u!114 &1378868875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33602,7 +33753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 3d402f3516d68d34d9d92b0ae3c8caed, type: 3}
+  jewel_model: {fileID: 752290686279614097, guid: e94ebbab943377743a17f63613d65d31, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1397628478
 MonoBehaviour:
@@ -33891,7 +34042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 4911ac069911efa47af710aeba1d7725, type: 3}
+  jewel_model: {fileID: 6037230368882356183, guid: 8a431ec0e4806c942a90cc5673cf76e7, type: 3}
 --- !u!114 &1398699015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34202,7 +34353,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 85df614d981210b479eb696ab073a346, type: 3}
+  jewel_model: {fileID: 3984191392902370892, guid: 739d4b13deef5f747b42be10190ab2f0, type: 3}
 --- !u!114 &1403979039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35349,7 +35500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 05c6943e8faf28e489e74ae7fa0b11ca, type: 3}
+  jewel_model: {fileID: 4682893777960871110, guid: 6ee501a1a0cbfa543a6fb7db2ca057b6, type: 3}
 --- !u!114 &1461283593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36214,7 +36365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: f2c2cc0dbe2b7ef498232d2146e5549b, type: 3}
+  jewel_model: {fileID: 8577252415156630925, guid: 3b1338fbb5800734aab22729b118eaf9, type: 3}
 --- !u!114 &1498176582
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36688,7 +36839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 54878681c3f594e40b95aad800f9c0cf, type: 3}
+  jewel_model: {fileID: 110176603122156996, guid: d10779b688e17be47986d5fbdd6a4dd5, type: 3}
 --- !u!114 &1505737770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37659,7 +37810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 63ef766c877f4cd4380cc03353b053a5, type: 3}
+  jewel_model: {fileID: 8920220058900171564, guid: 0f7910b130886f84aab019249ba056ff, type: 3}
 --- !u!114 &1536475114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38284,7 +38435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: ce3bc4c569180674fa911ce705eacdec, type: 3}
+  jewel_model: {fileID: 2736710872568270760, guid: 208b383da5fdd844c814abed282f3972, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1557678859
 MonoBehaviour:
@@ -39160,7 +39311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: b3b085bbd388e214e83b0fa329047370, type: 3}
+  jewel_model: {fileID: 3731294968442820472, guid: 321dd348e4e38974ca1985e3991ae68c, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1583016776
 MonoBehaviour:
@@ -39787,7 +39938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: a184741404c1bd54e8668db8d4c06114, type: 3}
+  jewel_model: {fileID: 7436435421464533922, guid: 5e2477dde7a85a341aac41ef64da4d40, type: 3}
 --- !u!114 &1609758402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40002,7 +40153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: 53789c244f399594f8b50607806f9c8d, type: 3}
+  jewel_model: {fileID: 181069707283532643, guid: 8a6d36d6853ceea44bdbc40e9b938e13, type: 3}
 --- !u!114 &1621951583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40168,7 +40319,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -837.49976, y: -520.06616}
+  m_AnchoredPosition: {x: -837.49976, y: -400}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1623806337
@@ -40459,7 +40610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: f9ff20b64d7e6d64298dbcd20a54ee13, type: 3}
+  jewel_model: {fileID: 8589202457778240033, guid: 257be951faa18a2478b47d56ba6ed645, type: 3}
 --- !u!114 &1638610987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40931,7 +41082,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: fb75beb047eb3fb43a8605c4f968801f, type: 3}
+  jewel_model: {fileID: 3923406510617121577, guid: a80b98eb21170054898c7e267f6fb4b5, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1664229414
 MonoBehaviour:
@@ -41220,7 +41371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 8549c6830d8871c4b9208b2602c9c192, type: 3}
+  jewel_model: {fileID: 2055180676014275719, guid: 629f71140789b6c4cb73daf2d5d9bbc5, type: 3}
 --- !u!114 &1669934368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41527,7 +41678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 7e125fec6a942494596a274551220cdf, type: 3}
+  jewel_model: {fileID: 5899661656506297390, guid: c8e3bdd80c1080942ad21bc5d660e491, type: 3}
 --- !u!114 &1679800423
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41742,7 +41893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: 98a259a4091b4f244a04bfcfd2e0a3ca, type: 3}
+  jewel_model: {fileID: 3175095351847782483, guid: af6acbc60f975d84ebc17a736619596c, type: 3}
 --- !u!114 &1680810118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41927,7 +42078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: bebfac5e000575b43b75ef2294258adf, type: 3}
+  jewel_model: {fileID: 8071330753263170880, guid: 660af4e8f3acf54479f0ef97c68f5b00, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1687633313
 MonoBehaviour:
@@ -42611,7 +42762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: e334ef0894ee5b842ba6d6ebe41b5537, type: 3}
+  jewel_model: {fileID: 113212923608275390, guid: c4d3d1e193f0345489dea0d86ea0edf5, type: 3}
 --- !u!114 &1702063243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42922,7 +43073,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: c2102c3324d4cf844a533c298c656d0d, type: 3}
+  jewel_model: {fileID: 1276546414776133385, guid: 33e7c449c9d6b454f8f9ab2b406f3d9a, type: 3}
 --- !u!114 &1715257320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43158,7 +43309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: a1fc48efd03d5eb44a5f8c96f7d49883, type: 3}
+  jewel_model: {fileID: 2074153369503624976, guid: 8f4323c96164800438945e9b3fc56b56, type: 3}
 --- !u!114 &1721147101
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43752,7 +43903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: 15f09ba83bbd8fe46bc6b21520b0957e, type: 3}
+  jewel_model: {fileID: 6932197610135478948, guid: d58e2cf0fc85fa3498ace298d509dca9, type: 3}
 --- !u!114 &1748924738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44074,7 +44225,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1575235220}
-  jewel_model: {fileID: 919132149155446097, guid: f9d9d85b98b54954e84f97312424b211, type: 3}
+  jewel_model: {fileID: 4605408767319679730, guid: 99d584965f23dd04881949ddde9d4275, type: 3}
 --- !u!114 &1750155456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45095,7 +45246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 3feca2667e8cc5640b4c78f7ee6c9186, type: 3}
+  jewel_model: {fileID: 4923345842704187475, guid: e1a65d6f560495e4ca5b139d654b4913, type: 3}
 --- !u!114 &1819437347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45955,7 +46106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: 8dac0fd87c8e45c47a215471f189775d, type: 3}
+  jewel_model: {fileID: 4401796067976090476, guid: 37c401bc57114734b8725198e3e3cfbd, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &1863110171
 MonoBehaviour:
@@ -46982,7 +47133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: fcfa16bbd7afa1f4b9a390a73c0390d0, type: 3}
+  jewel_model: {fileID: 6265320157099898380, guid: b3c16dd15cd899146bc8c073fd38cbb1, type: 3}
 --- !u!114 &1910753762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47621,7 +47772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: e1acf8f23a436a548b9ec2a8839533eb, type: 3}
+  jewel_model: {fileID: 8015367416033955593, guid: be0bc2eee584edc4cbb595f0d91c28f7, type: 3}
 --- !u!114 &1940143817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47915,6 +48066,82 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1983148510}
+  m_CullTransparentMesh: 1
+--- !u!1 &1986209666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1986209667}
+  - component: {fileID: 1986209669}
+  - component: {fileID: 1986209668}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1986209667
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986209666}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 891148193}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 70, y: 70}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1986209668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986209666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: b197d85544ad23a46988ef66509a6bb7, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1986209669
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1986209666}
   m_CullTransparentMesh: 1
 --- !u!1 &1986797138
 GameObject:
@@ -48226,7 +48453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: c1012c2837384ca4d8af89b1c18ac9a9, type: 3}
+  jewel_model: {fileID: 3189243130074405813, guid: 65f6c8c7e5941bd489483bede608e35e, type: 3}
 --- !u!114 &2004328219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48481,7 +48708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1040226771}
-  jewel_model: {fileID: 919132149155446097, guid: e79e235256af33641bc9b0686404fcf5, type: 3}
+  jewel_model: {fileID: 5133752446574594006, guid: 0d539ae285696304b8277f67122a9399, type: 3}
   jewel_position_2: {fileID: 1848773837}
 --- !u!114 &2016556683
 MonoBehaviour:
@@ -49163,7 +49390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: f682ae7def4911140bc14dcdb53612b7, type: 3}
+  jewel_model: {fileID: 7069629831274879528, guid: a22081f77c117c041bcc61ed416675ab, type: 3}
 --- !u!114 &2036673974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49546,7 +49773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: 33ad63e8ab96c774cbd7a89514aa207c, type: 3}
+  jewel_model: {fileID: 6509016100989152550, guid: cb2e471f66b0cd34ab010efecfae8f21, type: 3}
 --- !u!114 &2049163802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50245,7 +50472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 11a66b055b2112c40952db0e50f3bfa6, type: 3}
+  jewel_model: {fileID: 8459567584818459043, guid: 511e42a9981eaed4ebafd43c327db329, type: 3}
 --- !u!114 &2082880202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50571,7 +50798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 5a8d047936c0ec14d9e4cc41af2b71cb, type: 3}
+  jewel_model: {fileID: 652122694117135815, guid: 1d783f1799d201c428543b508a03b17f, type: 3}
 --- !u!114 &2092349510
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50882,7 +51109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: a2859f4d621c31247a080f169d8318a6, type: 3}
+  jewel_model: {fileID: 7537366912335009596, guid: c229369f6d8bd2c4583e6dc4ee9a984d, type: 3}
 --- !u!114 &2099576748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51300,7 +51527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 1298827339}
-  jewel_model: {fileID: 919132149155446097, guid: ac33e999b95f83e44bce996011bc9a87, type: 3}
+  jewel_model: {fileID: 7831790054524886452, guid: 1c9306c677f85364e86ef8525d862dad, type: 3}
 --- !u!114 &2128703196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51814,7 +52041,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jewel_position: {fileID: 441898106}
-  jewel_model: {fileID: 919132149155446097, guid: 4ca96dc99a297c447ac3931cae80e199, type: 3}
+  jewel_model: {fileID: 7321348013599926232, guid: 46b6061f64a7fa84dab4b78489dcaab9, type: 3}
 --- !u!114 &2145188738
 MonoBehaviour:
   m_ObjectHideFlags: 0
